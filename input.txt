@@ -1,0 +1,6 @@
+Dmitry 1000 3
+Albert 3000 5
+Arsen 3000 7
+Ruslan 2500 4
+Daria 3500 7
+Artem 1000 11

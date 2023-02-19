@@ -1,0 +1,4 @@
+name: Daria: salary: 3500, yearsOfExperience: 7
+name: Arsen: salary: 3000, yearsOfExperience: 7
+name: Albert: salary: 3000, yearsOfExperience: 5
+name: Artem: salary: 1000, yearsOfExperience: 11
