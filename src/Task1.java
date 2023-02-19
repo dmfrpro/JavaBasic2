@@ -10,7 +10,7 @@ public class Task1 {
         var minValue = min(list, comparator);
         var actualMin = list.stream().min(comparator).get();
 
-        assertTrue(minValue.equals(actualMin), "Incorrect output");
+        assertTrue(actualMin.equals(minValue), "Incorrect output");
         System.out.printf("Min value is %d%n", minValue);
     }
 
